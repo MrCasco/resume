@@ -6,4 +6,4 @@ The original template was taken from [this repo](https://github.com/jakegut/resu
 
 Feel free to give me a star, fork or whatever to let me know this was useful for you.
 
-**Special thanks to [Jake Gutierrez](https://github.com/jakegut) who wrote the original resume.text file.**
+**Special thanks to [Jake Gutierrez](https://github.com/jakegut) who wrote the original resume.tex file.**
